@@ -1,0 +1,4 @@
+Sobre
+
+App de geração de códigos rendomicos (aleatórios).
+O App gera um código a cada x segundos (pode ser definido no código). 
